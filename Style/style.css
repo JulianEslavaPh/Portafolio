@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nabla&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nabla&family=Poppins&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+body{
+    background-color: #f5f3f4;
+}
+.letra{
+    font-family: 'Roboto', sans-serif;
+    color: #b1a7a6;
+    text-align: center;
+}
+.letra2{
+    font-family: 'Roboto', sans-serif;
+    justify-content: center;
+    text-align: center;
+    color: #161a1d;
+}    
+.imagen{
+    height: 100%;
+    width: 100%;
+}
+.bg-body-index{
+    background-color: #d3d3d3
+}
+.letranav{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 350px;
+    margin-right: 150px;
+    text-align: center; justify-content: center;
+    color: #660708;
+    font-size: 100%;
+}
+.texto1{
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    color:#161a1d;
+    margin-left: 45px;
+    margin-bottom: 20px;
+}
+.cajon1{
+    margin-top: 25px;
+    width: 75%;
+    height: 100%;
+}   
+.texto3{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color: #660708;
+    font-size: 15px;
+}
+.texto4{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    color: #660708;
+    font-size: 15px;
+}
+.bajo{
+    margin-bottom: 15px;
+}
+.texto1{
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    color:#161a1d;
+    margin-left: 45px;
+    margin-bottom: 20px;
+    font-size: 100;
+}
+.cajon2{
+    margin-top: 25px;
+    width: 70%;
+    height: 50%;
+} 
+.cajon3{
+    margin-top: 25px;
+    width: 50%;
+    height: 50%;
+    justify-content: right;
+} 
+.caja1{
+    margin-top: 25px;
+    width: 80%;
+    height: 80%;
+} 
+.imagen1{
+    height: 30%;
+    width: 30%;
+    align-content: center;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.parrafo1{
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    color:#161a1d;
+    margin-left: 45px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 200%;
+}
+.imagen2{
+    height: 30%;
+    width: 30%;
+    align-content: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.card{
+    margin-left: 100px;
+    margin-top: 25px;
+}
+.card-title{
+    text-align: center;
+}
